@@ -1,0 +1,8 @@
+INSERT INTO `twitter`.`users` (`first_name`) VALUES ('Lebron');
+
+SELECT first_name FROM users;
+
+
+UPDATE `twitter`.`users` SET `first_name` = 'Lebron' WHERE (`id` = '6');
+
+DELETE FROM `twitter`.`users` WHERE (`id` = '6');
