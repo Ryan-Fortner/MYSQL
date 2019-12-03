@@ -1,0 +1,2 @@
+# MYSQL
+Assignments using MYSQL
